@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ratoujemie8617
+- 👀 I’m interested in Music, Programming, Sailing
+- 🌱 I’m currently learning Node.js, C#
+- 💞️ I’m looking to collaborate on everything !
