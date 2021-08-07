@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋, je suis Jérémie BAUDON</h1>
-<h3 align="center">Un développeur très curieux</h3>
+<h3 align="center">Un développeur curieux</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratoujemie8617&label=Profile%20views&color=0e75b6&style=flat" alt="ratoujemie8617" /> </p>
 
