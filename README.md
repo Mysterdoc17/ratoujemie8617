@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ratoujemie8617" alt="ratoujemie8617" /></a> </p>
 
-- 🔭 Currently working on : [kinésiothérapie website](https://github.com/ratoujemie8617/Site-Kinesiotherapie)
+- 🔭 Currently working on : [kinésiologie website](https://github.com/ratoujemie8617/Site-Kinesiotherapie)
 
 - 👯 I’m looking to collaborate on : [Minecraft website](https://github.com/ratoujemie8617/Minecraft)
 
