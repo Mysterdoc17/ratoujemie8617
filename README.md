@@ -7,7 +7,7 @@
 
 - 🔭 Currently working on : [kinésiologie website](https://github.com/ratoujemie8617/Site-Kinesiotherapie)
 
-- 👯 I’m looking to collaborate on : [Minecraft website](https://github.com/ratoujemie8617/Minecraft)
+- 👯 I’m looking to collaborate on : [Arduino Programs](https://github.com/ratoujemie8617/Arduino-programs)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ratoujemie8617](https://github.com/ratoujemie8617)
 
