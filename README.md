@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ratoujemie8617" alt="ratoujemie8617" /></a> </p>
 
-- 🔭 Currently working on : [kinésiologie website](https://github.com/ratoujemie8617/Site-Kinesiotherapie)
+- 🔭 Currently working on : [Projet Eté](https://github.com/ratoujemie8617/projet-ete)
 
 - 👯 I’m looking to collaborate on : [Arduino Programs](https://github.com/ratoujemie8617/Arduino-programs)
 
